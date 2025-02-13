@@ -6,7 +6,7 @@ This project is a Streamlit application that leverages AI agents to generate cus
 
 ## Deployed Link
 
-Newsletter Generation App is Deployed And Available [Here](https://realtimebasednewslettergeneration.streamlit.app/)
+Newsletter Generation App is Deployed And Available [Here](https://realtimenewslettergeneration.streamlit.app/)
 
 
 ## Screenshots
