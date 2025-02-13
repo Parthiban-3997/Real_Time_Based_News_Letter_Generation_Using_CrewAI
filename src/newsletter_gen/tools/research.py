@@ -1,4 +1,4 @@
-from crewai_tools import BaseTool
+from langchain.tools import BaseTool
 from exa_py import Exa
 import os
 from datetime import datetime

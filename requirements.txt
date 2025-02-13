@@ -1,5 +1,5 @@
-crewai
-crewai_tools
+crewai>=0.11.0
+crewai-tools>=0.0.9
 langchain-anthropic
 langchain-openai
 langchain-google-genai
